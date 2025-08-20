@@ -56,4 +56,4 @@ The Nautilus is a three-tier application and is deployed in the Stratos Datacent
  
 ## Solution
 
-Documentation of solutions live [here]()
+Documentation of solutions live [here](https://github.com/StrangeJay/kodekloud-engineer/tree/master/_docs/projects)
